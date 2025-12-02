@@ -23,7 +23,7 @@ def extract_pages(input_pdf, output_pdf, pages):
 
 
 # Example usage:
-input_file = "input.pdf"
+input_file = "FedEx Scan 2025-11-28_12-38-29 (3).pdf"
 output_file = "output_pages_4_to_9.pdf"
 pages_to_extract = [4, 5, 6, 7, 8, 9]
 
